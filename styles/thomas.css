@@ -85,3 +85,15 @@ article{
    float: right;
    margin-top: 70px;
 }
+
+a:visited {
+   color: white;
+   background-color: transparent;
+   text-decoration: none;
+}
+
+a:active {
+   color: #3E92CC;
+   background-color: transparent;
+   text-decoration: none;
+}
