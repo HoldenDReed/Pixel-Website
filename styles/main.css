@@ -1,5 +1,7 @@
+
 body {
-    background-color: darkslategray;
+    background-color: #2C0703;
+    font-family: 'Oswald', sans-serif;
 }
 
 .navBar {
@@ -25,10 +27,16 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
-h1 {
+.header {
     color: white;
     font-size: 50px;
     text-align: center;
+}
+
+.subHeader {
+color: #3E92CC;
+font-size: 30px;
+text-align: center;
 }
 
 .navNames {
@@ -40,6 +48,7 @@ h1 {
 }
 
 .profilePictures{
+    color: white;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -49,7 +58,10 @@ h1 {
     width: 30%;
     display: flex;
     justify-content: center;
+    margin: 20px;
 }
 .pictures {
-    width: 70%;
+    width: 50%;
 }
+
+
