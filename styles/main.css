@@ -27,6 +27,18 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #3E92CC;
+    background-color: transparent;
+    text-decoration: none;
+ }
+
 .header {
     color: white;
     font-size: 50px;
