@@ -1,41 +1,36 @@
+
 body{
-    color: white;
+    color: whitesmoke;
+    background-color: yellow;
 }
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
+
 .col {
-    width: 30%;
-}
-h3{
-    text-align: center;
+    width: 40%;
 }
 
 p {
-    font-size: 20px;
+    font-size: 60px;
 }
 
 .icons{
-    width: 2em;
+    width: 6em;
     padding-right: 10px;
     display: inline;
 }
 .wowImage {
-    width: 67%;
+   
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 .valorantImage {
-    width: 50%;
+    
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 .rainbowImage {
-    width: 57%;
+
     margin-left: auto;
     margin-right: auto;
     display: block;
