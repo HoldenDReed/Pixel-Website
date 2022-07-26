@@ -64,4 +64,16 @@ text-align: center;
     width: 50%;
 }
 
+.mainText{
+    color: aliceblue;
+}
 
+.gameCluster {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.titleText{
+    color: aliceblue;
+}
