@@ -1,0 +1,43 @@
+
+body{
+    color: whitesmoke;
+    background-color: yellow;
+}
+
+.col {
+    width: 40%;
+}
+
+p {
+    font-size: 60px;
+}
+
+.icons{
+    width: 6em;
+    padding-right: 10px;
+    display: inline;
+}
+.wowImage {
+   
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.valorantImage {
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.rainbowImage {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.header2 {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
