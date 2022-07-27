@@ -65,12 +65,18 @@ text-align: center;
    width: 50%;
 }
 
-article{
+.gameArticles{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+
+/* article{
    display: flex;
    flex-wrap: wrap;
    margin-top: 20px;
    margin-bottom: 40px;
-}
+} */
 
 .gameImageleft{
    width: 20%;
@@ -83,7 +89,7 @@ article{
    width: 25%;
    height: 25%;
    float: right;
-   margin-top: 70px;
+   margin:15px;
 }
 
 a:visited {
