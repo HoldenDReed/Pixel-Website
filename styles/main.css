@@ -74,4 +74,5 @@ text-align: center;
 }
 .pictures {
     width: 50%;
+    max-height: 200px;
 }

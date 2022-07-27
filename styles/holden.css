@@ -1,5 +1,6 @@
 body{
     color: white;
+    font-family: 'Maven Pro', sans-serif;
 }
 .container {
     display: flex;
