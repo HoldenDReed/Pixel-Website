@@ -17,14 +17,14 @@
 }
 
 .tayFooter {
-    background-image: url("../taylorStyle/Taylor\ Backgrounds/.tayFooter");
+    background-image: url("./taylorStyle/taylorBackgrounds/steamFooter.png");
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
 }
 
 .tayHeader {
-    background-image: url("../taylorStyle/Taylor\ Backgrounds/.tayHeader");
+    background-image: url("./taylorStyle/taylorBackgrounds/steamHeader.png");
     max-width: 100%;
     max-height: 100%;
     width: auto;
