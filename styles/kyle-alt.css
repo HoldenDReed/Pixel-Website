@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(80, 191, 255);
+    background-image: url('https://media0.giphy.com/media/13DZCJrmTryVKU/giphy.gif?cid=ecf05e47r42s1xuqpykjn1hindjrtuvwa0b8u4oes6jh5gpu&rid=giphy.gif&ct=g');
+    background-size: cover;
     font-family: 'Oswald', sans-serif;
 }
+
 .gameText{
     color: white;
     display: flex;
@@ -20,7 +22,7 @@ a:link {
     text-decoration: underline;
   }
   a:visited {
-    color: red;
+    color: rgb(0, 217, 255);
     background-color: transparent;
     text-decoration: underline;
   }
@@ -48,6 +50,13 @@ a:link {
     display: inline;
     padding-right: 2px;
     color: rgb(0, 217, 255);
+}
+
+.para {
+    width: 40%;
+    display: inline;
+    padding-right: 2px;
+    color: yellow;
 }
 .title {
     margin-left: auto;
