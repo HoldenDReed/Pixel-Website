@@ -17,14 +17,14 @@
 }
 
 .tayFooter {
-    background-image: url("D:/NSS/Development/NSS/Workspace/pixel_Pushers_site/Pixel-Website/taylorStyle/Taylor Backgrounds/steamFooter.png");
+    background-image: url("../taylorStyle/Taylor\ Backgrounds/.tayFooter");
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
 }
 
 .tayHeader {
-    background-image: url("D:/NSS/Development/NSS/Workspace/pixel_Pushers_site/Pixel-Website/taylorStyle/Taylor Backgrounds/steamHeader.png");
+    background-image: url("../taylorStyle/Taylor\ Backgrounds/.tayHeader");
     max-width: 100%;
     max-height: 100%;
     width: auto;
