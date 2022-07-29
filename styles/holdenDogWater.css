@@ -25,7 +25,7 @@ p {
     display: block;
 }
 .valorantImage {
-    
+    transform: rotateY(180deg);
     margin-left: auto;
     margin-right: auto;
     display: block;
